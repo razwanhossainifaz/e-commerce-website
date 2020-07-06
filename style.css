@@ -15,7 +15,7 @@ body{
     border: none;
     background-color: #000000;
 }
-.Smartphone-head{
+.head{
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -35,4 +35,10 @@ body{
 .card-text{
     font-size: 15px;
     text-align-last: center;
+}
+.head2{
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        
 }
