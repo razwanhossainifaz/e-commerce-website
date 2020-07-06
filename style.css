@@ -42,3 +42,34 @@ body{
         margin-bottom: 50px;
         
 }
+.row h3, img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bag{
+    box-shadow: 5px 5px 15px gray;
+    padding: 45px 60px;
+    border-radius: 0px 10px 0px 30px;
+    margin-right: 20px;
+    margin-top: 60px;
+}
+.bag-head{
+    margin-top: 30px;
+}
+.beauty{
+    box-shadow: 5px 5px 15px gray;
+    padding: 45px 60px;
+    border-radius: 10px 0px 30px 0px;
+    margin-bottom: 30px;
+}
+.beauty-head{
+    margin-top: 10px;
+}
+.shoes{
+    box-shadow: 5px 5px 15px gray;
+    padding: 45px 60px;
+    border-radius: 10px 0px 30px 0px;
+}
