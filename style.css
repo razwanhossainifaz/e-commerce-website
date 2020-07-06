@@ -17,6 +17,14 @@ body{
     border: none;
     background-color: #000000;
 }
+.buy-now-button a{
+    text-decoration: none;
+    color: white;
+}
+.buy-now-button-2 a{
+    text-decoration: none;
+    color: white;
+}
 .head{
     text-align: center;
     margin-top: 50px;
