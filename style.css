@@ -10,6 +10,16 @@ body{
 .margin-right{
     margin-right: 20px;
 }
+.bg-image-1{
+    background-image: url("img/bg-1.png");
+    background-repeat: no-repeat;
+    padding-right: 0px;
+}
+/*.bg-2{
+    background-image: url("img/bg-2.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}*/
 .buy-now-button{
     color: white;
     padding: 10px 40px;
