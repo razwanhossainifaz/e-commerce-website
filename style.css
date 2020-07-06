@@ -11,13 +11,13 @@ body{
     margin-right: 20px;
 }
 .bg-image-1{
-    background-image: url("img/bg-1.png");
+    background-image: url("img/bg-3.png");
     background-repeat: no-repeat;
     padding-right: 0px;
 }
-/*.bg-2{
+/*.bg-image-2{
     background-image: url("img/bg-2.png");
-    background-position: bottom;
+    background-position: left;
     background-repeat: no-repeat;
 }*/
 .buy-now-button{
