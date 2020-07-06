@@ -4,6 +4,14 @@ body{
 .container{
     margin-bottom: 0px; 
 }
+.carousel-indicators li{
+    transition: all .2s ease-in-out;
+    width: 30px;
+    height: 5px;
+    background-color:#FF9D00;
+    border: none;
+    border-radius: 15px;
+}
 .navbar-default {
     background-color: #ffffff !important;
 }
@@ -38,7 +46,7 @@ body{
 .head{
     text-align: center;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
 }
 .shadow{
     box-shadow: 5px 5px 30px lightgray;
@@ -59,7 +67,7 @@ body{
 .head2{
         text-align: center;
         margin-top: 50px;
-        margin-bottom: 50px;
+        margin-bottom: 0px;
         
 }
 .row h3, img{
@@ -101,6 +109,14 @@ body{
     border-radius: 10px;
     margin-top: 70px;
     height: 300px;
+}
+hr{
+    width: 100px;
+    margin: 15px auto;
+    background-image: linear-gradient(#FF9C35,#FFD019);
+    height: 5px;
+    border-radius: 5px;
+    margin-bottom: 40px;
 }
 .buy-now-button-2{
     color: white;
