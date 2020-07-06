@@ -76,3 +76,17 @@ body{
 .see-all{
     color:#FFA91E;
 }
+.carousel-bgcolor{
+    background-color: #F7EDE1;
+    border-radius: 10px;
+    margin-top: 70px;
+    height: 300px;
+}
+.buy-now-button-2{
+    color: white;
+    margin-top: 10px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #000000;
+}
