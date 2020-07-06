@@ -1,6 +1,38 @@
-.bg-color{
-    background-color: #ffffff;
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 0px;
+    
 }
 .margin-right{
     margin-right: 20px;
+}
+.buy-now-button{
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #000000;
+}
+.Smartphone-head{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.shadow{
+    box-shadow: 5px 5px 30px lightgray;
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+/*.card-body h1,h5,p{
+    display: flex;
+    justify-content: center;
+}*/
+.card-body{
+    flex-direction: column;
+}
+.card-text{
+    font-size: 15px;
+    text-align-last: center;
 }
